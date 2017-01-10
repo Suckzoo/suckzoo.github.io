@@ -13,7 +13,7 @@ layout: default
       <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
     <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description | markdownify }}</h2>
+    <h2 class="blog-description">{{ site.description | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
     <div class="custom-links">
       {% for social in site.social %}
         {% if social.url %}
