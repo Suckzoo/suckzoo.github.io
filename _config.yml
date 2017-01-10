@@ -7,9 +7,9 @@ gems:
   - jekyll-redirect-from
 
 # Site settings
-title: "블로그"
-description: ""
-email: ''
+title: "Seokju Hong"
+description: "Yet another `gosu`-wannabe developer, M.S. Candidate @ KAIST CS"
+email: 'seokju.hong _at_ kaist.ac.kr'
 #blog logo
 logo: ""
 # blog cover
@@ -39,14 +39,21 @@ timezone: Asia/Seoul
 social:
 
   - icon: facebook
-    url: http://fb.me/
+    url: http://fb.me/suckzoo
     desc: Connect with me facebook
     share_url: https://www.facebook.com/sharer.php
     share_title: ?t=
     share_link: "&amp;u="
 
+  - icon: twitter
+    url: https://twitter.com/suckzo_p
+    desc: Connect with me twitter
+    share_url:
+    share_title:
+    share_link:
+
   - icon: github
-    url:  https://github.com/
+    url:  https://github.com/suckzoo
     desc: Our GitHub
     share_url:
     share_title:
