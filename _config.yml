@@ -8,17 +8,17 @@ gems:
 
 # Site settings
 title: "Seokju Hong"
-description: "Yet another `gosu`-wannabe developer, M.S. Candidate @ KAIST CS"
+description: "Yet another [`gosu`](https://en.wikipedia.org/wiki/Gosu) wannabe developer, M.S. Candidate @ KAIST CS"
 email: 'seokju.hong _at_ kaist.ac.kr'
 #blog logo
-logo: ""
+logo: "/assets/images/portrait.jpg"
 # blog cover
-cover: ""
+cover: "/assets/images/banner.jpg"
 
 authors:
-  # realignist:
-  #   name: Haze Lee
-  #   image: http://realignist.me/assets/images/pikachu_logo.png
+  suckzo_o:
+    name: "Seokju Hong"
+    image: "/assets/images/portrait.jpg"
   # 2:
   #   name:
   #   image:
@@ -28,7 +28,7 @@ paginate: 5
 url: "http://" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@'
+twitter_handle: '@suckzo_p'
 
 #fill in disqus shortname to use disqus
 disqus: ''
