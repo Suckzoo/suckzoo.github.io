@@ -112,7 +112,7 @@
       </div>
       <div class="inner">
         <h1 class="blog-title">{{ site.title }}</h1>
-        <h2 class="blog-description">{{ site.description || markdownify}}</h2>
+        <h2 class="blog-description">{{ site.description | markdownify}}</h2>
         <a href="/" class="btn">Back to Overview</a>
       </div>
     </div>
