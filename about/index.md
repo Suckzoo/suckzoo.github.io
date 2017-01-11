@@ -155,4 +155,5 @@ Worked as vice president in 2014
 - Loves coffee, whiskey, and beer!
 - Plays rhythm games, especially [`Sound Voltex`](http://p.eagate.573.jp/game/sdvx/)
 - Plays [`overwatch`](https://playoverwatch.com). BattleTag: Suckzoo#3290
+- Submitted AWESOME CODE in [kakao rock-scissor-paper challenge at 2016 PyCon APAC](http://tech.kakao.com/2016/08/19/gawibawibo/).
 
