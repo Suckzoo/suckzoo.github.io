@@ -57,8 +57,7 @@ Elasticsearch를 production code에 integrate하면서 고민했던 것들, 실�
 
 여튼 이제 블로그라고 말할 수 있는 뭔가가 나왔습니다. 나름 커다란 인생 부채 하나 시간 들여서 해결한 만큼,
 앞으로 이 페이지 관리좀 잘 해보고 싶습니다. 코스웍이든, 연구든, 제 개인 코딩이든 여기저기서 배운 것들을 잘 정리해서 좋은 글 많이많이 써보고 싶습니다.
-Mathjax 나 GA 같은 것들도 붙여서 써보고 싶은 욕심이 있습니다.
-이런 생각들이 생각에서 끝나지 않았으면 좋겠습니다.
+Mathjax 나 GA 같은 것들도 이것저것 붙여서 써보고 싶은 욕심도 있고... 이런 생각들이 생각에서 끝나지 않았으면 좋겠습니다.
 
 <blockquote class="twitter-tweet" data-lang="ko"><p lang="ko" dir="ltr">내년 다짐은.. &quot;아무것도 하지 않은 채로 부러워하지는 말자&quot; 로 정해야겠다</p>&mdash; 소쿠릿🍓 (@sokcuri) <a href="https://twitter.com/sokcuri/status/813688133141135360">2016년 12월 27일</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
