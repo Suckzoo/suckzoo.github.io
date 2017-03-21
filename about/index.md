@@ -14,10 +14,10 @@ author: suckzo_o
 
 # Personal Information
 - Seokju Hong
-- Master's Candidate, KAIST School of Computing
-- <i class="fa fa-building"></i> 291, Daehak-ro, Yuseong-gu, Daejeon 
-- <i class="fa fa-phone"></i> +82 (0) 10 4053 3096
-- <i class="fa fa-envelope-o"></i> seokju.hong _at_ kaist.ac.kr
+- Master Student, KAIST School of Computing
+- <i class="fa fa-building"></i> Advanced Networking Laboratory (N1#621), KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 
+- <i class="fa fa-phone"></i> +82 (0) 42 350 7748
+- <i class="fa fa-envelope-o"></i> seokju _at_ an.kaist.ac.kr
 
 ## Research Interests
 - Distributed System
@@ -28,7 +28,7 @@ author: suckzo_o
 
 Sep. 2016 - Current
 
-: [KAIST](https://kaist.edu), M.S. Candidate, School of Computing \\
+: [KAIST](https://kaist.edu), M.S. Student, School of Computing \\
 [Advanced Networking Lab](https://an.kaist.ac.kr), Advised by Sue Moon
 
 Mar. 2013 - Aug. 2016
