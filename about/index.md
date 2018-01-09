@@ -8,9 +8,9 @@ author: suckzo_o
 
 - You can get my curriculum vitae [here](#) (to be updated)
 - Meet me on [<i class="fa fa-twitter"></i>](https://twitter.com/suckzo_p),
- [<i class="fa fa-facebook"></i>](https://fb.me/suckzoo),
- [<i class="fa fa-github"></i>](https://github.com/suckzoo),
- and [keybase](https://keybase.io/suckzoo)!
+   [<i class="fa fa-facebook"></i>](https://fb.me/suckzoo),
+    [<i class="fa fa-github"></i>](https://github.com/suckzoo),
+    and [keybase](https://keybase.io/suckzoo)!
 
 # Personal Information
 - Seokju Hong
@@ -21,8 +21,8 @@ author: suckzo_o
 
 ## Research Interests
 - Distributed System
-- Concurrent Programming
-- 대학원 들어가서 좀 더 고민해볼 거예요.
+- Consensus Algorithm
+- Blockchain Scalability
 
 # Education
 
@@ -53,6 +53,10 @@ Integrated testing framework, [mocha](https://mochajs.org/) \\
 Developed Backoffice CMS tool
 
 # Teaching Experience
+Fall, 2017
+
+: CS443 Distributed System (TA)
+
 Spring, 2016
 
 : CS202 Problem Solving (TA)
