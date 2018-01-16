@@ -6,5 +6,5 @@ imgs = list(map(lambda index: BASE_DIR + 'log_rep_{}.png'.format(index), range(1
 for img_route in imgs:
     img = Image.open(img_route)
     w, h = img.size
-    img.resize((w//2, h//2))
+    img = img.resize((w//2, h//2), Image.ANTIALIAS)
     img.save(img_route)
